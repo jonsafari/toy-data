@@ -1,7 +1,7 @@
 # Toy Data
 
-This repo provides a small amount of textual data, for use in testing code and
-sanity checks.  To embed this repo as a subdirectory in your repo, type the
+This provides a small amount of textual data, for use in testing code and
+sanity checks.  You can embed this as a subdirectory in your repo, by typing the
 following in the main directory of your repo:
 
        git submodule add https://github.com/jonsafari/toy-data
