@@ -6,7 +6,7 @@ following in the main directory of your repo:
 
        git submodule add https://github.com/jonsafari/toy-data
 	   git add .gitmodules
-	   git commit .gitmodules -m 'add .gitmodules'
+	   git commit .gitmodules toy-data/ -m 'add .gitmodules'
 
 Depending on your needs, you may need to tokenize and lowercase the data. You can
 do this using a tokenizer, like [Tok-tok](https://github.com/jonsafari/tok-tok),
