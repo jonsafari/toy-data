@@ -25,3 +25,11 @@ number of sentences in each set:
 | Dev      | 200       | ~4.5K  |
 | Test     | 200       | ~4.8K  |
 
+## Examples
+    nc.train.en:  But what is the right level?
+    nc.train.es:  Pero ¿cuál es el nivel correcto?
+    nc.train.de:  Aber welche Ebene ist die richtige?
+
+    nc.train.en:  A Big Chance for Small Farmers
+    nc.train.es:  Una gran oportunidad para los pequeños agricultores
+    nc.train.de:  Große Chance für Kleinbauern
