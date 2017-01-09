@@ -16,3 +16,12 @@ accomodate empty lines and comments.
 The data comes from the [WMT](http://www.statmt.org/wmt16/translation-task.html)
 News Commentary dataset, and is cleaned up.  Download the full data there for
 large-scale experiments.
+It is triple-aligned in **English**, **Spanish**, and **German**.  Below are the
+number of sentences in each set:
+
+| Set      | Sentences | Tokens |
+| ---      | ---       | ---    |
+| Training | 1000      | ~23K   |
+| Dev      | 200       | ~4.5K  |
+| Test     | 200       | ~4.8K  |
+
