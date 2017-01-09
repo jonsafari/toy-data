@@ -213,49 +213,49 @@ Así, pues, ninguno de ellos tiene motivo alguno para manifestarse molesto con T
 La dictadura de los valores
 ¿Por qué Esperar al Euro?
 Aunque la expansión hacia el este de la Unión Europea (UE) todavía no sucede, el debate ya se está desviando a preguntar qué vendrá después: ¿Cuándo adoptarán el Euro los predominantemente postcomunistas nuevos miembros?
-Asumiendo que cumplen con las condiciones del Tratado de Maastricht acerca de la UEM y que no son injustamente sujetos a criterios más astringentes, el tema central es si los nuevos miembros se beneficiarán más esperando o si deben buscar una entrada temprana. 
+Asumiendo que cumplen con las condiciones del Tratado de Maastricht acerca de la UEM y que no son injustamente sujetos a criterios más astringentes, el tema central es si los nuevos miembros se beneficiarán más esperando o si deben buscar una entrada temprana.
 Al principio debe enfatizarse que cuando un país busca una entrada temprana a la UEM asume un programa fiscal y estructural más ambicioso que no sería necesario si la membresía en la UEM fuese retrasada.
-La entrada temprana, de otra manera, sería un gesto sin significado. 
+La entrada temprana, de otra manera, sería un gesto sin significado.
 Creo que la adopción temprana del Euro no es sólo posible, sino preferible al retraso.
 Con "adopción temprana" me refiero al periodo permisible más corto posible -dos años- después de que un nuevo miembro subordina su política monetaria a los controles fiscales y monetarios del mecanismo de tasa de cambio (ERM2).
-Asumiendo que se entre a ambos, la UE y el ERM2, en 2004, los nuevos miembros deberían buscar entrar a la zona del Euro alrededor de 2006. 
+Asumiendo que se entre a ambos, la UE y el ERM2, en 2004, los nuevos miembros deberían buscar entrar a la zona del Euro alrededor de 2006.
 ¿Es esto realista?
 Bueno, la mayoría de los países candidatos ya han logrado un alto grado de convergencia estructural con la UE.
-Las exportaciones hacia la Unión se han acelerado desde 1991, cuando el colapso del sistema COMECON de comercio de la era soviética forzó una reorientación radical del comercio hacia mercados occidentales, apoyada por una inversión extranjera masiva proveniente de la UE.
-La mayoría de los candidatos a la membresía realizan ahora más exportaciones a la UE que las realizadas por Grecia, Portugal y España cuando entraron a la UE y a la UEM. 
+Las exportaciones hacia la Unión se han acelerado desde 1991, cuando el colapso del sistema COMECON de comercio de la era soviética forzó una reorientación radical del comercio hacia mercados occidentales, apoyada por una inversión extranjera masiva proveniente de la UE.
+La mayoría de los candidatos a la membresía realizan ahora más exportaciones a la UE que las realizadas por Grecia, Portugal y España cuando entraron a la UE y a la UEM.
 El progreso en la deflación es similarmente impresionante.
 La inflación anual en la mayoría de los países candidatos ha caído a 4-5%, un nivel que no es mucho más alto que el de muchos de los países de la UE y que es más bajo que el de Holanda el año pasado.
 En cuanto a la convergencia estructural, los candidatos a la UE ya tienen un mejor desempeño que España, Portugal y Grecia cuando se encontraban a un tiempo comparable antes de su debút en la UEM.
-Tampoco hay mucho riesgo de tener amplias oscilaciones correctivas de precios en el futuro porque todos los precios, a excepción de unos cuantos, están completamente liberalizados. 
+Tampoco hay mucho riesgo de tener amplias oscilaciones correctivas de precios en el futuro porque todos los precios, a excepción de unos cuantos, están completamente liberalizados.
 Los estudios teóricos sugieren que la inflación de los países entrantes permanecerá neciamente más alta que lo permitido por el Tratado de Maastricht.
 El culpable en esa visión pesimista es el llamado efecto "Balassa-Samuelson": el rápido crecimiento en la productividad de los sectores de comercio de los países candidatos -la manufactura de exportación, por ejemplo- está incrementando los salarios reales en sus economías, incluyendo los sectores no comerciales, como el de servicios.
-Este incremento generalizado de los salarios reales frente a un menor crecimiento de la productividad del sector servicios dispara los precios relativos y mantiene a la inflación por arriba del promedio de la eurozona. 
+Este incremento generalizado de los salarios reales frente a un menor crecimiento de la productividad del sector servicios dispara los precios relativos y mantiene a la inflación por arriba del promedio de la eurozona.
 El efecto Balassa-Samuelson- es todavía evidente en Grecia, España y Portugal.
 Pero como estima la investigación empírica preparada por los Bancos Nacionales CEC5, su contribución al crecimiento total de los precios en los países candidatos es de 1-2%.
-Con el rango tan sometido y limitado para la inflación correctiva futura del efecto Balassa-Samuelson, el criterio de la UEM para la estabilidad de precios -de una inflación anual menor a 1.5% de la tasa promedio de las tres economías de mejor desempeño de la UE- está bien al alcance. 
+Con el rango tan sometido y limitado para la inflación correctiva futura del efecto Balassa-Samuelson, el criterio de la UEM para la estabilidad de precios -de una inflación anual menor a 1.5% de la tasa promedio de las tres economías de mejor desempeño de la UE- está bien al alcance.
 ¿Pero es preferible la admisión temprana a la UEM que postponer la membresía?
-Desde el punto de vista de los actuales estados miembros, ¿admitir a Hungría, Latvia, Polonia o Eslovaquia, más bien antes que después, hundiría al Euro como muchos temen? 
+Desde el punto de vista de los actuales estados miembros, ¿admitir a Hungría, Latvia, Polonia o Eslovaquia, más bien antes que después, hundiría al Euro como muchos temen?
 Los temores de que extender la UEM a nuevos Estados "demasiado pronto" minaría la tasa de cambio externa del Euro son irracionales.
 Si todos los países candidatos se unen a la UE alrededor del mismo tiempo, juntos representarían apenas un mero 6% de su PIB total.
 Por lo que cualquier impacto negativo en el Euro debido al rápido acceso a la UEM resultaría a lo mucho en poco más que un error de redondeo.
 Retardar la entrada a la UEM tendría sentido si una espera mayor produjera más información.
 Pero una espera más larga no producirá nada más que ruido extra.
 De igual forma, el periodo de transición ya es turbulento, con los flujos de capital generados por la convergencia incrementando las tasas de cambio y complicando la política monetaria en varios países candidatos, incluyendo Polonia, la República Checa y Hungría.
-En efecto, la volatilidad de los flujos de capital podría quedarse corta ante la tasa flexible de cambio ofrecida bajo el ERM2, la cual implica una banda de fluctuación de 15% a cualquier lado de una paridad central. 
+En efecto, la volatilidad de los flujos de capital podría quedarse corta ante la tasa flexible de cambio ofrecida bajo el ERM2, la cual implica una banda de fluctuación de 15% a cualquier lado de una paridad central.
 Algunos argumentan que la membresía en el ERM2 debería considerarse una propuesta de largo plazo, quizá tardando hasta 2010, para el propio beneficio de los candidatos mismos.
 El beneficio es simple: el ERM2 permite cierta flexibilidad en la tasa de cambio, en oposición a las tasas fijas implicadas en la adopción del Euro.
-Esto ayudaría a mantener alto el desempeño económico de los candidatos y así mantener una convergencia real con los niveles promedio de ingreso de la UE. 
+Esto ayudaría a mantener alto el desempeño económico de los candidatos y así mantener una convergencia real con los niveles promedio de ingreso de la UE.
 Ese es un argumento excepcionalmente débil y políticamente sospechoso también.
 Como muestran los datos del Banco Central Europeo, el PIB promedio per cápita en los países candidatos es equivalente al 44% del nivel de la eurozona.
 El tamaño de la separación en el ingreso se combina con los pequeños diferenciales de crecimiento para implicar que el proceso de convergencia real se expandirá mucho más allá de incluso las fechas más cautelosas para la entrada a la UE y a la UEM, tardándose probablemente varias décadas.
-Más importante que eso es que el crecimiento económico duradero no depende del tipo de tasa de cambio, sea flexible o fija (UEM), mientras que el acceso temprano acelerará algunas reformas cruciales. 
+Más importante que eso es que el crecimiento económico duradero no depende del tipo de tasa de cambio, sea flexible o fija (UEM), mientras que el acceso temprano acelerará algunas reformas cruciales.
 Unos cuantos años de una limitada flexibilidad en la tasa de cambio son un pobre sustituto de la rápida conclusión de reformas estructurales.
 En casi todos los países candidatos, la mayor deflación y el crecimiento económico a largo plazo requieren de una consolidación fiscal, de mercados laborales más flexibles y de la conclusión de la privatización.
-Retrazar la entrada a la UEM genera el riesgo de debilitar los incentivos para completar esas políticamente costosas pero necesarias reformas. 
+Retrazar la entrada a la UEM genera el riesgo de debilitar los incentivos para completar esas políticamente costosas pero necesarias reformas.
 Cualquier retrazo en la conclusión de reformas hará, al final, más lento el proceso de convergencia real que, con derecho, tanto estiman los funcionarios de la UE.
 La adopción temprana, en cambio, conduciría más hacia esas reformas y, entonces, a una convergencia real.
 El éxito en eso permitiría que los países candidatos empezaran a cosechar los beneficios de una mayor transparencia en precios, de menores costos de transacción y de un sólido marco macroeconómico.
-Esta estrategia, no una que retrace la entrada, es la más prometedora para los miembros actuales y futuros de la UE. 
+Esta estrategia, no una que retrace la entrada, es la más prometedora para los miembros actuales y futuros de la UE.
 ¿1929 o 1989?
 PARÍS – A medida que la crisis económica se profundiza y amplía, el mundo busca analogías históricas como ayuda para comprender lo que ha ocurrido.
 Al comienzo de la crisis, muchos la compararon con 1982 o 1973, lo que resultaba reconfortante, ya que ambas fechas marcan recesiones cíclicas clásicas.
@@ -487,14 +487,14 @@ En todos los países miembros, el nivel general de confianza en la Unión Europe
 Pero en Inglaterra las cifras son radicalmente diferentes: sólo un 19% confía en la UE, mientras un 55%, no.
 En contraste, el Parlamento Europeo tiene una mejor reputación que la UE como un todo: el nivel de confianza promedio a lo largo de la UE hacia el Parlamento Europeo es de un 54%, mientras que en Inglaterra es un 30%.
 En toda la UE, un 48% piensa que ser miembro de la UE es algo bueno; en Inglaterra esta cifra baja al 29%.
-En prácticamente cada pregunta, los votantes británicos son menos entusiastas acerca de la UE que los votantes de cualquier otro país. 
+En prácticamente cada pregunta, los votantes británicos son menos entusiastas acerca de la UE que los votantes de cualquier otro país.
 Uno podría pensar que la aversión de los británicos hacia la UE tendría que reflejarse en apoyo y aprecio hacia sus instituciones nacionales.
 No es así.
 La confianza británica en el Parlamento Europeo puede ser apenas un 30%; pero la confianza en el Parlamento de Westminster es mucho más baja, tan sólo un 19%, la menor cifra de la UE.
 La confianza en el gobierno nacional es un poco mayor, pero sólo del 25%, mientras que la confianza en los partidos políticos nacionales roza un magro 10%.
 Nuevamente, ambas cifras son las más bajas de la UE.
 Los votantes de otros países tienen más confianza en las instituciones de la UE, pero su opinión de sus propias instituciones también es baja.
-En Francia, un 57% confía en el Parlamento Europeo, pero sólo un 29% confía en el parlamento francés; mientras que las cifras correspondientes en Alemania con un 51% y un 23%. 
+En Francia, un 57% confía en el Parlamento Europeo, pero sólo un 29% confía en el parlamento francés; mientras que las cifras correspondientes en Alemania con un 51% y un 23%.
 Pero lo que causa desconcierto en la encuesta es el hecho de que, a pesar de que los votantes europeos sientan poco entusiasmo acerca de la UE y sus instituciones actuales, tal como son hoy en día, un 65% de ellos apoyaría una política exterior común para Europa, y un 72% apoyaría una política de defensa y seguridad común; incluso en Inglaterra hay un 52% de apoyo a la idea de una política de defensa común.
 Esto puede ser una reacción a la guerra encabezada por EE.UU. en Irak; pero Tony Blair la excluirá precisamente por esa razón, y una defensa europea común tiene poco sentido si Inglaterra no forma parte de ella.
 El predicamento para los líderes europeos en la cumbre de esta semana es que se encuentran en un punto de inflexión de un inestable proceso de integración europea.
